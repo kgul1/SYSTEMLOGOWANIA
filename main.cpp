@@ -18,6 +18,7 @@ int main() {
         }
         else if(pin==2345){
             cout<<"gratulacje wpisales prawidlowe haslo";
+            return 0;
         }
     }
 
